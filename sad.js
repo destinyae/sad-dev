@@ -8,3 +8,5 @@ return null;
 main()
 
 // sad.log(main)
+
+merge()
